@@ -6,6 +6,8 @@ Made to learn about game console emulation
 
 Try it online [here](https://www.studiostudios.net/xnes/nes.html)(mobile friendly!)
 
+![pic](assets/screenshots/mario.png)
+
 ## what is this?
 
 This is a software simulation of the computer hardware in the Nintendo Entertainment System console. 
