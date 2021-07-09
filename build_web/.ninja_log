@@ -1,0 +1,25 @@
+# ninja log v5
+3	1163	6467898911400339	CMakeFiles/opengl_impl.dir/C_/Code/opengl-es/xnes/src/external/stb_image_impl.cpp.o	94dc4b14637ee881
+1	961	6467889244985211	CMakeFiles/opengl_impl.dir/C_/Code/opengl-es/xnlib/external/glad/src/glad.c.o	b5303b5308a0d837
+1	651	6467995723843444	build.ninja	495e8044eb53dd23
+21	1599	6467889251715202	CMakeFiles/opengl_impl.dir/C_/Code/opengl-es/xnlib/external/stb_image_impl.cpp.o	ccd0aff612690256
+6	3639	6467900791664527	CMakeFiles/nes.dir/C_/Code/opengl-es/xnes/src/external/imgui_emscripten/imgui_demo.cpp.o	81df4c36372b98be
+43	1863	6467889253955218	CMakeFiles/nes.dir/C_/Code/opengl-es/xnlib/external/imgui_impl_sdl.cpp.o	b75a4aa9c35963d2
+34	9133	6467889327000964	CMakeFiles/nes.dir/C_/Code/opengl-es/xnlib/external/imgui.cpp.o	edc97096890a44a5
+1164	1529	6467898913640320	libopengl_impl.a	da2c9272a08f7141
+5	3966	6467903006047461	CMakeFiles/nes.dir/C_/Code/opengl-es/xnes/src/graphics/xn_sdl.cpp.o	4e6aee5552fe501
+45	10977	6467889345461733	CMakeFiles/nes.dir/C_/Code/opengl-es/nes/src/cpu.cpp.o	b2c7606a1a9ae47d
+37	3145	6467889267215198	CMakeFiles/nes.dir/C_/Code/opengl-es/xnlib/external/imgui_demo.cpp.o	9e04c881a377f232
+40	5319	6467889288935544	CMakeFiles/nes.dir/C_/Code/opengl-es/xnlib/external/imgui_draw.cpp.o	e55d762e13b6fdfc
+2	881	6467898147507592	CMakeFiles/opengl_impl.dir/C_/Code/opengl-es/xnes/src/external/glad/src/glad.c.o	bf0400615b740ee2
+9	1446	6467900768389290	CMakeFiles/nes.dir/C_/Code/opengl-es/xnes/src/external/imgui_emscripten/imgui_impl_sdl.cpp.o	2a0ab700b6133041
+3	6373	6467900819504500	CMakeFiles/nes.dir/C_/Code/opengl-es/xnes/src/external/imgui_emscripten/imgui_draw.cpp.o	95a52a006c0dead2
+19	8043	6467900836284479	CMakeFiles/nes.dir/C_/Code/opengl-es/xnes/src/util/xn_json.cpp.o	4ca801f7771cf530
+16	3296	6467900787859277	CMakeFiles/nes.dir/C_/Code/opengl-es/xnes/src/nes/mappers.cpp.o	ca90684493c0bb3a
+24	4660	6467900801834515	CMakeFiles/nes.dir/C_/Code/opengl-es/xnes/src/nes/ppu.cpp.o	2446a8a7007e1f4
+11	11041	6467900866144475	CMakeFiles/nes.dir/C_/Code/opengl-es/xnes/src/external/imgui_emscripten/imgui.cpp.o	f1573f6932ca6917
+14	12920	6467900884874995	CMakeFiles/nes.dir/C_/Code/opengl-es/xnes/src/nes/cpu.cpp.o	d3b9c938a1678136
+3	18214	6467982798707465	CMakeFiles/nes.dir/C_/Code/opengl-es/xnes/src/main.cpp.o	1a07ad5e660300f5
+18219	33427	6467982951249206	html/nes.html	c0a79f6bd342b51a
+4	17557	6467995923539428	CMakeFiles/nes.dir/C_/Code/opengl-es/xnes/src/main.cpp.o	1a07ad5e660300f5
+17561	31607	6467996064509982	html/nes.html	c0a79f6bd342b51a

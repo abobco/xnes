@@ -1,0 +1,7 @@
+branch_tests/** 
+src/old_code/**
+**/CMakeFiles/**
+**.dir
+build/Debug
+**/roms_licensed
+**.obj

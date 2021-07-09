@@ -1,0 +1,18 @@
+{
+    "window_title": "NES Emulator",
+    "rom_folder": "assets/roms/",
+    "rom": "nestest.nes",
+    "controller_sprite": "assets/SwitchController.png",
+    "fullscreen": true,
+    "mute": false,
+    "resolution": [
+        960,
+        820
+    ],
+    "window_position": [
+        -772,
+        -505
+    ],
+    "audio_sample_rate": 48000,
+    "controller_db": "assets/gamecontrollerdb.txt"
+}
