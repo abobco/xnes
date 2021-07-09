@@ -191,7 +191,7 @@ void draw_frame() {
       updateEmulatorOptions(nes, window, romManager);
       ImGui::NewLine();
 
-      if (ImGui::TreeNode("More Shit")) {
+      if (ImGui::TreeNode("More Stuff")) {
         romManager.update(nes);
         ImGui::NewLine();
 

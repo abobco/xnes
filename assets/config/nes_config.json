@@ -1,6 +1,6 @@
 {
     "window_title": "NES Emulator",
-    "rom": "nestest.nes",
+    "rom": "dpadhero.nes",
     "rom_folder": "C:/Code/opengl-es/xnes/assets/roms/",
     "controller_sprite": "/home/pi/opengl/xnes/assets/SwitchController.png",
     "fart": "C:/Code/opengl-es/nes/assets/fart-1.wav",

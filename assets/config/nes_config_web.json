@@ -1,7 +1,7 @@
 {
     "window_title": "NES Emulator",
     "rom_folder": "assets/roms/",
-    "rom": "nestest.nes",
+    "rom": "dpadhero.nes",
     "controller_sprite": "assets/SwitchController.png",
     "fullscreen": true,
     "mute": false,
